@@ -3,7 +3,7 @@
 https://aquamarine-stardust-8fc4ec.netlify.app/
 
 
-An efficient web-based tool for automatically summarizing textual content.
+An efficient web-based tool for automatically summarizing textual content. 
 
 # Table of Contents :
 
